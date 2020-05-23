@@ -7,4 +7,7 @@
   4. Deep Generative Modelling
   5. Reinforcement Learning
   6. Deep Learning new froniers
-
+#### There were 3 labs in the course and the solution python notebooks can be found in :
+  1. [Lab1](Lab1) covering the introduction and RNNs
+  2. [Lab2](Lab2) covering CNNs and Deep Generative Modelling
+  3. [Lab3](Lab3) covering RL

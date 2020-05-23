@@ -13,4 +13,4 @@
   1. [Lab1](Lab1) covering the introduction and RNNs
   2. [Lab2](Lab2) covering CNNs and Deep Generative Modelling
   3. [Lab3](Lab3) covering RL
-#### Course Website : www.introtodeeplearning.com  
+### Course Website : www.introtodeeplearning.com  
